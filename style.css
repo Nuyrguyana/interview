@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(90deg, #f598a8, #f6edb2);
+}
+
+h1 {
+    color: #626161;
+}
+
+h2 {
+    color: #2a2a2a;
+
+}
+
+ul {
+    background: linear-gradient(90deg, #cfecd0, #a0cea7, #9ec0db);
+    color: #000000;
+    box-shadow: 0 0 10px;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+li {
+    background: linear-gradient(90deg, #f4d6db,#b3dbd3,#69b7eb);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    font-weight: normal;
+}
+
+#circle {
+    width: 100px;
+    height: 100px;
+    background: #0582f6;
+    border-radius: 50%;
+    position: relative;
+}
